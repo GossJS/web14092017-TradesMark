@@ -12,7 +12,6 @@ https://kodaktor.ru/g/web14092017
 <br>
 
 Задание от 19.10.2017  - >   https://www.webpackbin.com/bins/-Kwohfz8f_AuKlp8P3uI   
-<br>
 P.S
 <br>
 (тут все сложно, оно работает в консоли браузера 	(￣ヘ￣) )
