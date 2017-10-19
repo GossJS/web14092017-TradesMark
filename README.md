@@ -11,4 +11,4 @@ https://kodaktor.ru/g/web14092017
 2 часть задания  https://www.webpackbin.com/bins/-Kv7TSZ6AWaRA9DphdJA
 <br>
 
-Задание от 19.10.2017  - >   https://www.webpackbin.com/bins/-Kwohfz8f_AuKlp8P3uI
+Задание от 19.10.2017  - >   https://www.webpackbin.com/bins/-Kwohfz8f_AuKlp8P3uI   (тут все сложно, оно работает в консоли браузера =( )
