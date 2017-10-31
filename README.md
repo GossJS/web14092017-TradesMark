@@ -6,10 +6,13 @@ https://kodaktor.ru/g/web14092017
 
 ссылку на ответ помещайте в README.MD своего репозитория
 <br><br>
+
+задание от 14.09.2017
 Воть http://jsbin.com/suwolefafe/edit?html,output ('уже проверили')
 <br><br>
 
-2 часть задания  https://www.webpackbin.com/bins/-Kv7TSZ6AWaRA9DphdJA   ('уже проверили')
+2 часть задания от 21.09.2017
+https://www.webpackbin.com/bins/-Kv7TSZ6AWaRA9DphdJA   ('уже проверили')
 <br><br>
 
 
