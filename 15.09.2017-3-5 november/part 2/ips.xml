@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ips PUBLIC "Galkin Anton" "https://kodaktor.ru/g/89333dc">
+
+<ips>
+	
+<ip addr="077.234.203.101" frequency="12">
+
+<platform by="windows">11</platform>
+		
+<platform by="linux">0</platform>
+		
+<platform by="macOS">1</platform>
+		
+<platform by="iphone and others mobile phones">0</platform>
+	
+</ip>
+	
+<ip addr="005.144.096.251" frequency="11">
+		
+<platform by="windows">11</platform>
+		
+<platform by="linux">0</platform>
+		
+<platform by="macOS">0</platform>
+		
+<platform by="iphone and others mobile phones">0</platform>
+
+</ip>
+	
+<ip addr="081.222.086.058" frequency="6">
+		
+<platform by="windows">6</platform>
+		
+<platform by="linux">0</platform>
+		
+<platform by="macOS">0</platform>
+		
+<platform by="iphone and others mobile phones">0</platform>
+	
+</ip>
+	<ip addr="094.019.018.060" frequency="4">
+		
+<platform by="windows">0</platform>
+		
+<platform by="linux">4</platform>
+		
+<platform by="macOS">0</platform>
+		
+<platform by="iphone and others mobile phones">0</platform>
+	
+</ip>
+	
+<ip addr="091.122.189.004" frequency="4">
+		
+<platform by="windows">4</platform>
+		
+<platform by="linux">0</platform>
+		
+<platform by="macOS">0</platform>
+		
+<platform by="iphone and others mobile phones">0</platform>
+	
+</ip>
+</ips>
