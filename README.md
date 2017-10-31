@@ -14,7 +14,7 @@ https://kodaktor.ru/g/web14092017
 <br><br>
 
 
-Задание от 5 Ноября  --- > чуть выше в папке 15.09.2017-3-5-november   <br><br>
+Задание DTD от 5 Ноября  --- > чуть выше в папке 15.09.2017-3-5-november   <br><br>
 
 
 Задание шарик от 12.10.2017  --- > https://codepen.io/Anton4703/pen/RLBLrJ
