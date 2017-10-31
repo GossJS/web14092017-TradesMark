@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!ELEMENT ips (ip)*>
+<!ELEMENT ip (platform)*>
+<!ATTLIST ip adress CDATA #REQUIRED>
+<!ATTLIST ip frequency CDATA #REQUIRED>
+<!ELEMENT platform (#PCDATA)*>
+<!ATTLIST platform by CDATA #REQUIRED>
