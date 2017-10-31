@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE tablica PUBLIC "Galkin Anton" "https://kodaktor.ru/j/j_f7514">
+
+<tablitsa>
+
+      <student name = "Ivanov">
+		
+         <mark discipline="multimedia">3</mark>
+		
+         <mark discipline="web-disain">3</mark>
+		
+         <mark discipline="graphics">5</mark>
+	
+      </student>
+	
+        <student name = "Petrova">
+		
+         <mark discipline="multimedia">3</mark>
+		
+         <mark discipline="web-disain">4</mark>
+		
+         <mark discipline="graphics">5</mark>
+		
+         <mark discipline="logics">5</mark>
+	
+      </student>
+	
+      <student name = "Sidorenko">
+
+         <mark discipline="multimedia">3</mark>
+		
+         <mark discipline="web-disain">4</mark>
+		
+         <mark discipline="graphics">5</mark>
+		
+         <mark discipline="logics">4</mark>
+	
+      </student>
+</tablitsa>
